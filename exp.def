@@ -1,0 +1,15 @@
+EXPORTS
+	base64_encode
+	base64_decode
+
+	base64_encode_init = init
+	base64_encode_deinit = deinit
+	base64_encode_reset = reset
+	base64_encode_clear = clear
+	base64_encode_add = add
+
+	base64_decode_init = init
+	base64_decode_deinit = deinit
+	base64_decode_reset = reset
+	base64_decode_clear = clear
+	base64_decode_add = add
